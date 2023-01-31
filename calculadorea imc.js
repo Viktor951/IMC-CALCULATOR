@@ -1,8 +1,8 @@
 const Nome = 'Yorname';
 const Sobrenome = 'LastName';
-const Idade = 20;
-const Peso = 62;
-const alturaEmM = 1.65;
+const Idade = 55;
+const Peso = 80;
+const alturaEmM = 1.75;
 let imc;
 let anoNascimento;
 imc = Peso / (alturaEmM * alturaEmM);
