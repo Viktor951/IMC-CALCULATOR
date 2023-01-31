@@ -1,5 +1,5 @@
-const Nome = 'João Victor';
-const Sobrenome = 'Sousa';
+const Nome = 'Yorname';
+const Sobrenome = 'LastName';
 const Idade = 20;
 const Peso = 62;
 const alturaEmM = 1.65;
